@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Travelapp/static/css/main.21354a1f.css",
+    "main.js": "/Travelapp/static/js/main.e1552e56.js",
+    "static/media/landing.svg": "/Travelapp/static/media/landing.61f8fe9816b6ae173917e5565e759fd3.svg",
+    "static/media/search.svg": "/Travelapp/static/media/search.8f068617663962b2267450d110e03482.svg",
+    "static/media/cilent1.svg": "/Travelapp/static/media/cilent1.bbe5a5d4741e7d6fd5e70b0d39723e21.svg",
+    "static/media/everset.svg": "/Travelapp/static/media/everset.f1067933128997ca82abb4bda44e3c94.svg",
+    "static/media/anna.svg": "/Travelapp/static/media/anna.e0b11ecfa3ee5154db0a80eea1b3a402.svg",
+    "static/media/logoWhite.svg": "/Travelapp/static/media/logoWhite.88179def196fcb9a1a8f3fd04db01591.svg",
+    "static/media/Bali.svg": "/Travelapp/static/media/Bali.d3a22b977cb623e412163095cc69dd41.svg",
+    "index.html": "/Travelapp/index.html",
+    "main.21354a1f.css.map": "/Travelapp/static/css/main.21354a1f.css.map",
+    "main.e1552e56.js.map": "/Travelapp/static/js/main.e1552e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21354a1f.css",
+    "static/js/main.e1552e56.js"
+  ]
+}
