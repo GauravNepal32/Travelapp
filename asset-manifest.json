@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Travelapp/static/css/main.1b578d3c.css",
-    "main.js": "/Travelapp/static/js/main.e0fadd03.js",
+    "main.css": "/Travelapp/static/css/main.84085710.css",
+    "main.js": "/Travelapp/static/js/main.a17fcb43.js",
+    "static/media/landing.jpg": "/Travelapp/static/media/landing.79d666106b3bb65dbc50.jpg",
     "static/media/landing.svg": "/Travelapp/static/media/landing.61f8fe9816b6ae173917e5565e759fd3.svg",
-    "static/media/search.svg": "/Travelapp/static/media/search.8f068617663962b2267450d110e03482.svg",
     "static/media/cilent1.svg": "/Travelapp/static/media/cilent1.bbe5a5d4741e7d6fd5e70b0d39723e21.svg",
     "static/media/everset.svg": "/Travelapp/static/media/everset.f1067933128997ca82abb4bda44e3c94.svg",
     "static/media/anna.svg": "/Travelapp/static/media/anna.e0b11ecfa3ee5154db0a80eea1b3a402.svg",
@@ -11,12 +11,13 @@
     "static/media/bootstrap-icons.woff?": "/Travelapp/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/Bali.svg": "/Travelapp/static/media/Bali.d3a22b977cb623e412163095cc69dd41.svg",
     "static/media/bootstrap-icons.woff2?": "/Travelapp/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/1.webp": "/Travelapp/static/media/1.153f85812f0684865344.webp",
     "index.html": "/Travelapp/index.html",
-    "main.1b578d3c.css.map": "/Travelapp/static/css/main.1b578d3c.css.map",
-    "main.e0fadd03.js.map": "/Travelapp/static/js/main.e0fadd03.js.map"
+    "main.84085710.css.map": "/Travelapp/static/css/main.84085710.css.map",
+    "main.a17fcb43.js.map": "/Travelapp/static/js/main.a17fcb43.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b578d3c.css",
-    "static/js/main.e0fadd03.js"
+    "static/css/main.84085710.css",
+    "static/js/main.a17fcb43.js"
   ]
 }
